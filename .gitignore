@@ -1,0 +1,10 @@
+# Ignore temporary files
+temp/
+tmp/
+*.lck
+*.tmp
+*.pid
+*.swp
+
+# Ignore general configs
+fs/etc/bind/*
