@@ -8,3 +8,4 @@ tmp/
 
 # Ignore general configs
 fs/etc/bind/*
+!fs/etc/bind/.gitkeep
